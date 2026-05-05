@@ -1,0 +1,6 @@
+# Ignorar ejecutables y temporales
+*.exe
+*.class
+*.out
+.vscode/
+__pycache__/
